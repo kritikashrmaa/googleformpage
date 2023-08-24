@@ -1,0 +1,30 @@
+.styled-grid {
+  border-collapse: collapse;
+  width: 80%;
+  margin-top: 20px;
+}
+
+.styled-grid th,.styled-grid td {
+ 
+  padding: 20px;
+  text-align: center;
+  
+}
+
+
+
+
+
+
+
+.checkbox-label {
+  display: block;
+  font-weight: bold;
+  font-size: 14px;
+  
+}
+
+.checkbox-label input {
+  margin-left: 15px;
+  transform: scale(1.8);
+}

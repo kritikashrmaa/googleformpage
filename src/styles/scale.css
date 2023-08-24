@@ -1,0 +1,28 @@
+
+
+.rating-values {
+  display: flex;
+  gap:75px;
+  margin-left:140px;
+}
+
+.rating-values div {
+  
+  font-size: 17px;
+  margin-bottom: 8px;
+  font-weight: 200;
+
+  
+}
+
+.rating-buttons{
+    display: flex;
+    justify-content: space-around;
+    margin:15px;
+
+}
+
+
+
+
+
