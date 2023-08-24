@@ -2,9 +2,14 @@
 
 .rating-values {
   display: flex;
-  gap:75px;
-  margin-left:140px;
+  gap:60px;
+  margin:0 auto;
+  align-items: center;
+  justify-content: center;
+  
 }
+
+
 
 .rating-values div {
   
@@ -17,8 +22,11 @@
 
 .rating-buttons{
     display: flex;
-    justify-content: space-around;
-    margin:15px;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    margin:0 auto;
+    
 
 }
 

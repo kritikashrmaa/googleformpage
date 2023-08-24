@@ -41,11 +41,12 @@ function App () {
         <File />
         <Scale />
         <MultichoiceGrid />
-        <TickBoxGrid/>
+        <TickBoxGrid />
+        <Footer />
         
       </div>
 
-       <Footer/>
+       
 
      
 

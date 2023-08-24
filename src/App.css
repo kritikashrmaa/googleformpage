@@ -6,8 +6,20 @@ body {
 .cards{
   display: flex;
   flex-direction: column;
-
+  justify-content: center;
+  margin:0 auto;
+  width:80%;
+ 
 }
+
+@media (min-width: 768px) {
+  .cards {
+    max-width: 768px; 
+    margin-left:400px;
+  }
+}
+
+
 
 hr{
   width: 100%;
